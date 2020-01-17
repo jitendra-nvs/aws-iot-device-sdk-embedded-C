@@ -283,3 +283,6 @@ Update Thing Shadow from a device
 rc = aws_iot_shadow_update(&mqttClient, AWS_IOT_MY_THING_NAME, pJsonDocumentBuffer, ShadowUpdateStatusCallback,
                             pCallbackContext, TIMEOUT_4SEC, persistenSubscription);
 ```
+
+
+/*****************ThankYou************************/
